@@ -20,6 +20,7 @@ dtb-$(CONFIG_ARCH_EXYNOS) += \
 	exynos9810-starlte.dtb		\
 	exynos990-c1s.dtb		\
 	exynos990-c1slte.dtb		\
+	exynos990-c2s.dtb		\
 	exynos990-r8s.dtb               \
 	exynos990-x1s.dtb		\
 	exynos990-x1slte.dtb		\
